@@ -1,5 +1,3 @@
-from __future__ import print_function
-from doctest import master
 import os
 import shutil
 import sys
